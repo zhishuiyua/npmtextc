@@ -1,0 +1,23 @@
+{
+  "name": "wch_npmtext",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhishuiyua/npmtextc.git"
+  },
+  "keywords": [
+    "wch_npmtext"
+  ],
+  "author": "wch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhishuiyua/npmtextc/issues"
+  },
+  "homepage": "https://github.com/zhishuiyua/npmtextc#readme"
+}
+
